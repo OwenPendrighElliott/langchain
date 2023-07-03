@@ -247,6 +247,7 @@ all = [
     "huggingface_hub",
     "jina",
     "manifest-ml",
+    "marqo",
     "elasticsearch",
     "opensearch-py",
     "google-search-results",
